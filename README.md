@@ -1,3 +1,3 @@
-# readme
 
-this is readme file.
+This project is documentation of me learning about devops. 
+
